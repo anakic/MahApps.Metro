@@ -27,8 +27,8 @@
                         <Grid x:Name="PART_CHECKBOX">
                             <Rectangle Margin="-6 0" Fill="{DynamicResource TransparentWhiteBrush}" />
                             <Border x:Name="normal"
-                                    Width="18"
-                                    Height="18"
+                                    Width="14"
+                                    Height="14"
                                     Background="{TemplateBinding Background}"
                                     BorderBrush="{TemplateBinding BorderBrush}"
                                     BorderThickness="{TemplateBinding BorderThickness}"
